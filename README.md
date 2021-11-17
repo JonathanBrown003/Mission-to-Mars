@@ -1,4 +1,5 @@
 # Mission to Mars
+![](https://github.com/JonathanBrown003/Mission-to-Mars/blob/13b0ddb7e3b25c1533273cb96007a21524ad2ae4/Mars.PNG)
 ## Purpose
 Using web scraping, we obtained images of Mars from different websites. Chrome Developer tools were used to read HTML and scrape images from the sites. 
 
